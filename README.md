@@ -43,7 +43,7 @@ Bir dosyayı kopyaladığınızda, taşıdığınızda veya düzenlediğinizde W
 Gereksinim: [.NET 9 SDK](https://dotnet.microsoft.com/download/dotnet/9.0)
  
 ```powershell
-git clone <repo-adresi>
+git clone https://github.com/semihkurucay/FileDateChange.git
 cd FileDateChange
 dotnet run                     # doğrudan çalıştır
  
